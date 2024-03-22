@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Object Detection in YOLO for an autonomous car contest called Teknofest Robotaksi**
 
-- 🌱 I’m currently learning **React, Postgresql**
+- 🌱 I’m currently learning **React, Spring Boot, and Postgresql**
 
 
 <p align="left">

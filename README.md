@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mesut Cemil Aliagaoglu</h1>
-<h3 align="center">I'm a junior in the Computer Engineering Department at Ege University</h3>
+<h3 align="center">I'm a senior in the Computer Engineering Department at Ege University</h3>
 
 - 🔭 I’m currently working on **Object Detection in YOLO for an autonomous car contest called Teknofest Robotaksi**
 

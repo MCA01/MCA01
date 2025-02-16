@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend Development Using Spring Boot, Reactive Programming, and Microservices Architecture**
 
-- 🌱 I’m currently learning **Reactive Programming, Deep Learning Techniques**
+- 🌱 I’m currently learning **Reactive Programming, Deep Learning**
 
 
 <p align="left">

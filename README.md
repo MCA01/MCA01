@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mesut Cemil Aliagaoglu</h1>
-<h3 align="center">I'm a senior in the Computer Engineering Department at Ege University</h3>
 
 - 🔭 I’m currently working on **Backend Development Using Spring Boot, Reactive Programming, and Microservices Architecture**
 
